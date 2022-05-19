@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Rk46/egzsUIx0FIfOfPnJ2KTbcY5oXEckJfmH6F0qFekQmLA5W3Y+U1gr6AQB3I61m3QqTHZzqAhpq0e59yxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2085786\\source\\repos\\OrderItem\\OrderItem\\OrderItem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2085786\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\2085786\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
